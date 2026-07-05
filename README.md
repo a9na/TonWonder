@@ -1,4 +1,4 @@
-🎵 TonWonder – Web Music Player
+## 🎵 TonWonder – Web Music Player
 
 TonWonder is a simple, responsive web-based music player built with vanilla HTML, CSS, and JavaScript. It provides a clean UI for playing audio tracks with basic controls like play/pause, next/previous, volume control, seek bar, and repeat functionality.
 
